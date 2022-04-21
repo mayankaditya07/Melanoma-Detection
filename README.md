@@ -40,10 +40,6 @@ Dropout Layer - The Dropout layer randomly sets input units to 0 with a frequenc
 
 **Activation Function(Softmax)** - The softmax function is used as the activation function in the output layer of neural network models that predict a multinomial probability distribution. The main advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one.
 
-
-Model Evaluation
-ModelEvaluation
-
 References
 Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
 
